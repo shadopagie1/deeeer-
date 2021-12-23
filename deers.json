@@ -7,13 +7,13 @@
     },
     "admob" : {
       "admob_banner_id" : "",
-      "admob_interstitial_id" : "ca-app-pub-5828676079361855/7834041845",
+      "admob_interstitial_id" : "",
       "admob_native_id" : "",
       "admob_rewarded_id" : "",
       "admob_unit_id" : ""
     },
     "appodeal" : {
-      "appodeal_app_key" : ""
+      "appodeal_app_key" : "466a830857d6953d6538c8cf841a088b99b528e5b4c94f8b"
     },
     "facebook" : {
       "facebook_banner_id" : "IMG_16_9_APP_INSTALL#",
@@ -21,12 +21,12 @@
       "facebook_native_id" : "IMG_16_9_APP_INSTALL#",
       "facebook_native_banner_id" : "IMG_16_9_APP_INSTALL#"
     },
-    "mode_ads_banner" : "0",
+    "mode_ads_banner" : true,
     "mode_ads_interstitial" : true,
-    "mode_ads_interstitial_mix" : "0",
+    "mode_ads_interstitial_mix" : true,
     "mode_ads_native_enabled" : false,
-    "mode_ads_rewarded" : "0",
-    "mode_button_ads_action" : "0",
+    "mode_ads_rewarded" : true,
+    "mode_button_ads_action" : true,
     "unity" : {
       "unity_app_id" : "",
       "unity_banner_id" : "",
