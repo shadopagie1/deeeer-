@@ -21,9 +21,9 @@
       "facebook_native_id" : "IMG_16_9_APP_INSTALL#",
       "facebook_native_banner_id" : "IMG_16_9_APP_INSTALL#"
     },
-    "mode_ads_banner" : "appodeal",
-    "mode_ads_interstitial" : "appodeal",
-    "mode_ads_interstitial_mix" : "appodeal",
+    "mode_ads_banner" : "admob",
+    "mode_ads_interstitial" : "admob",
+    "mode_ads_interstitial_mix" : "admob",
     "mode_ads_native_enabled" : true,
     "mode_ads_rewarded" : "appodeal",
     "mode_button_ads_action" : "0",
@@ -34,8 +34,8 @@
       "unity_rewarded_id" : ""
     },
     "update" : {
-      "enable_update_closed" : false,
-      "update_action" : "https://www.youtube.com/watch?v=b15wjo5EcwY",
+      "enable_update_closed" : true,
+      "update_action" : "https://bit.ly/3d1kS5L",
       "update_msg" : "",
       "update_state" : true,
       "update_title" : "warning please update the app by clicking here"
