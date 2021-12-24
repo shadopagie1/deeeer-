@@ -22,7 +22,7 @@
       "facebook_native_banner_id" : "IMG_16_9_APP_INSTALL#"
     },
     "mode_ads_banner" : "0",
-    "mode_ads_interstitial" : "0",
+    "mode_ads_interstitial" : true,
     "mode_ads_interstitial_mix" : "0",
     "mode_ads_native_enabled" : false,
     "mode_ads_rewarded" : "0",
@@ -69,7 +69,7 @@
     {
       "id" : 3,
       "imageURL" : "https://raw.githubusercontent.com/shadopagie1/test/main/xx.PNG",
-      "state" : "free",
+      "state" : "vip",
       "title" : "LAST THOUGHTS ",
       "description" : " ",
       "written" : "The next Mode is based on the first episode of squid video game: red light green light and has three maps dessert. This map is a reproduction of the map in the program where therea( 's just a big empty area that you need to travel during the green light stages and stop entirely during the red•light phases. Moving your mouse to move your gameraf 's cam does count as motion and will get you eliminated. "
