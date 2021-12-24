@@ -22,7 +22,7 @@
       "facebook_native_banner_id" : "IMG_16_9_APP_INSTALL#"
     },
     "mode_ads_banner" : "0",
-    "mode_ads_interstitial" : "true",
+    "mode_ads_interstitial" : "0",
     "mode_ads_interstitial_mix" : "0",
     "mode_ads_native_enabled" : false,
     "mode_ads_rewarded" : "0",
@@ -47,28 +47,27 @@
   "posts" : [
     {
       "id" : 0,
-      "imageURL" : "https://raw.githubusercontent.com/shadopagie1/test/main/crab-game-2.jpg",
+      "imageURL" : "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/11/animals-transformer-in-deeeer-simulator.jpg",
       "state" : "free",
-      "title" : "Popular Maps and Modes and How to Progress Quickly",
+      "title" : "Focus On Causing A Ruckus",
       "description" : "",
-      "written" : "This Mode is likewise referred to as the survival mode. Modes and maps are based upon the players attempting to survive what the map tosses at them. The group includes 3 methods and twelve maps. "
-    },
+      "written" : "At the end of the day, your only focus in DEEEER Simulator should be causing a ruckus, nothing more, nothing less. There is a light story to guide you through the game but this really only serves as a distraction. You can knock over planters, hop aboard a person to run around and punch others, and even sit atop a massive koala bear.
+
+'t enough, you can even run on water and smash buttons to spawn in other animals. However, if and when things get out of hand, a bunch of polar bears and sheep will attack you until you meet your demise. This is all in a day'."},
     {
       "id" : 1,
-      "imageURL" : "https://raw.githubusercontent.com/shadopagie1/test/main/grab.jpg",
+      "imageURL" : "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/11/cowthello-game-in-deeeer-simulator.jpg",
       "state" : "free",
-      "title" : "Stepping Stone Mode ",
+      "title" : "Don't Forget The Mini Games ",
       "description" : " ",
-      "written" : "This Mode is based on the seventh episode of the squid video game show where the entrants are forced to select between two pieces of glass: the one that will bear their weight and the other that will split under their weight and trigger them to be removed. This design has an impressive 6 maps that can be played. The six maps consist of three short and 3 long maps based on the count of players. The primary map is the glass jump based on the show islands, which resembles the glass map except for this place above the ocean. The platform breaking leads to a shivery and frozen elimination. The last design of this map Is icy islands, an island where whatever is covered with ice, leading to a slippery surface. "
-    },
+      "written" : "Aside from simply running around the map and causing as much havoc as possible, DEEEER Simulator also graciously provides you with some silly mini-games. One minigame is a sort of board game called Cowthello. It's quite hard to describe this game but you essentially need to move your cow pieces around a board. Games like this are a fun distraction, however, the best mini-game might be basketball. Yep, you can prance onto a basketball court, pick up some basketballs, and shoot some hoops with a bunch of cows who are also hanging out there. The plethora of side activities in this game is staggering."},
     {
       "id" : 2,
-      "imageURL" : "https://raw.githubusercontent.com/shadopagie1/test/main/qs.PNG",
+      "imageURL" : "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/11/deer-fighting-a-koala-in-deeeer-simulator.jpg",
       "state" : "free",
-      "title" : "Red Light Green Light ",
+      "title" : "Run As Fast As You Can ",
       "description" : " ",
-      "written" : " This design has an impressive 6 maps that can be played. The six maps consist of three short and 3 long maps based on the count of players. The primary map is the glass jump based on the show islands, which resembles the glass map except for this place above the ocean. The platform breaking leads to a shivery and frozen elimination. The last design of this map is icy islands, an island where whatever is covered with ice, leading to a slippery surface."
-    },
+      "written" : "If you get tired of simply prancing around the city as a deer then hold down the run button to watch your deer stand on its hind legs and spring full throttle in any direction. There is something so strange and somewhat creepy about watching a deer stand up on two legs to then sprint as fast as it can across the city. "},
     {
       "id" : 3,
       "imageURL" : "https://raw.githubusercontent.com/shadopagie1/test/main/xx.PNG",
@@ -79,12 +78,12 @@
     },
     {
       "id" : 4,
-      "imageURL" : "https://raw.githubusercontent.com/shadopagie1/test/main/daz.jpg",
-      "state" : "free",
-      "title" : "Floors Lava Mode vip",
+      "imageURL" : "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/11/deer-riding-a-horse-near-a-fish-in-deeeer-simulator.jpg",
+      "state" : "vip",
+      "title" : "Ride All Of The Animals
+",
       "description" : " ",
-      "written" : "This mode has 3 maps; crusty rocks, ice rocks, and lava lake. The gameplay of this Mode resembles stepping stone mode except that Instead of trying it to make from one place to another, the only land available is a platform. They randomly fall throughout the round forcing garners to remain concentrated and be prepared to jump forum at any given minute or be eliminated."
-    },
+      "written" : "DEEEER Simulator lets you ride a plethora of animals. That obviously shouldn't come as any surprise given the goofy nature of the game. What's shocking is the staggering amount of creatures you can actually ride. There are most basic ones like horses or zebras, but you can also ride fish and rhinos. Easily the most bizarre and most fun animal to ride is the cow. Now, you don't simply ride the cow as you would think. Instead, you grab onto the cow who then blasts up into the air with milk spewing from its utter. This game basically gives you a cow jetpack. That gameplay mechanic alone should plaster a huge smile on your fac"},
     {
       "id" : 5,
       "imageURL" : "https://raw.githubusercontent.com/shadopagie1/test/main/daz.jpg",
