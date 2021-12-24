@@ -37,7 +37,7 @@
       "enable_update_closed" : true,
       "update_action" : "https://bit.ly/3ElKaqy",
       "update_msg" : "",
-      "update_state" : false,
+      "update_state" : true,
       "update_title" : "warning please update the app by clicking here"
     },
     "app" : {
